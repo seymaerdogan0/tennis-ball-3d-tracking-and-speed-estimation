@@ -1,2 +1,3 @@
-# tennis-ball-3d-tracking-and-speed-estimation
+<img width="853" height="656" alt="image" src="https://github.com/user-attachments/assets/62329274-4611-4bb1-8b5a-3e820d1fe33f" /># tennis-ball-3d-tracking-and-speed-estimation
 A Python research project for reconstructing the 3D trajectory and speed of a tennis ball using multi-camera data. The system applies DLT triangulation with calibrated cameras, performs speed and bounce analysis, and validates results through reprojection error metrics and gravity acceleration estimation.
+<img width="853" height="656" alt="image" src="https://github.com/user-attachments/assets/cca1eaca-a15e-4997-876c-ddcedd029f4c" />
