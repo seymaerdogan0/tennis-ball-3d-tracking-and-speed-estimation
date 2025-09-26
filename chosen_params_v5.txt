@@ -1,0 +1,4 @@
+Best Euler order = zyx
+Best frame offsets: cam2=-10, cam3=-1 (cam1=0)
+Coarse search score (cam1-2) ~= 10.807 px on first 174 frames
+CAM3_USE_THRESH = 20.0 px, used_cam3 = 0 / 174 frames

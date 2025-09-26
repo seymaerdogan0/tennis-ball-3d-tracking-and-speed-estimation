@@ -1,0 +1,2 @@
+Cam1: mean=11.604 px, median=4.357 px, max=89.001 px, N=174
+Cam2: mean=8.636 px, median=7.640 px, max=23.954 px, N=174
