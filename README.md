@@ -31,12 +31,12 @@ python undistort_points_v2.py
 
 ### 4) Triangulation (3D Reconstruction)
 
-For 3 cameras:
+## For 3 cameras:
 
 python triangulate_dlt_v5.py
 
 
-For 2 cameras only:
+##  For 2 cameras only:
 
 python triangulate_dlt_with2cameras.py
 
