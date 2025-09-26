@@ -91,17 +91,21 @@ python pixel_error_control.py
 ### Example Outputs
 
 3D trajectory visualization (scatter plot of triangulated points)
+
 <img width="720" height="564" alt="image" src="https://github.com/user-attachments/assets/b2870de8-ff7c-44fe-a785-8ce96c5e65fe" />
 
 
 Animated trajectory (segment-by-segment motion)
+
 <img width="671" height="473" alt="image" src="https://github.com/user-attachments/assets/7f625f1b-7be5-4a30-b245-38bbca599116" />
 
 Speed graphs with bounce detection points
+
 <img width="634" height="757" alt="image" src="https://github.com/user-attachments/assets/00208375-43af-4889-9e71-ffc765a6782c" />
 
 
 Reprojection error statistics in pixels and centimeters
+
 <img width="595" height="262" alt="image" src="https://github.com/user-attachments/assets/9a86a244-5427-40f7-86a2-b37b4ed21e2f" />
 
 
